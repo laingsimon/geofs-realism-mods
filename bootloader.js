@@ -1,0 +1,1 @@
+(function(){fetch('https://raw.githubusercontent.com/laingsimon/geofs-realism-mods/refs/heads/main/load-links.js').then(resp => resp.text()).then(eval);})();
